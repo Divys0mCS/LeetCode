@@ -37,8 +37,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
-## Divide and Conquer
-| Problem Name | Difficulty |
 | ------- | ------- |
 ## Two Pointers
 | Problem Name | Difficulty |
