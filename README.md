@@ -11,11 +11,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
+| [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 <!---LeetCode Topics End-->
