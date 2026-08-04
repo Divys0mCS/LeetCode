@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## Math
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
+| [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python/Easy/0258-add-digits/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 ## Simulation
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
+| [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -74,4 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
