@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0704-binary-search](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
