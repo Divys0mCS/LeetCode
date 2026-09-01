@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0697-degree-of-an-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## Math
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -119,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,8 +148,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
