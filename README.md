@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python/Easy/0258-add-digits/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
