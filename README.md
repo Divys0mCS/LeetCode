@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0136-single-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
