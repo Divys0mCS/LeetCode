@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python/Easy/0258-add-digits/) | Easy |
+| [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
@@ -61,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Matrix
@@ -79,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
@@ -133,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
