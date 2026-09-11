@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0009-palindrome-number/) | Easy |
 | [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python/Easy/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0326-power-of-three](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 ## Divide and Conquer
@@ -176,5 +178,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
