@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python/Easy/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
@@ -172,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
