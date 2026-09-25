@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0015-3sum/) | Medium |
+| [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
@@ -159,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -228,4 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
