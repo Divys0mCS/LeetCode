@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0290-word-pattern/) | Easy |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0229-majority-element-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
@@ -237,4 +241,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
