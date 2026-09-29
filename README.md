@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0290-word-pattern/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
@@ -242,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0229-majority-element-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
