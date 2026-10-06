@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
+| [0735-asteroid-collision](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0735-asteroid-collision/) | Medium |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python/Easy/0258-add-digits/) | Easy |
+| [0735-asteroid-collision](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0735-asteroid-collision/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0735-asteroid-collision](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0735-asteroid-collision/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
