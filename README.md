@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0290-word-pattern/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
+| [0402-remove-k-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0402-remove-k-digits/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0155-min-stack/) | Medium |
+| [0402-remove-k-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0402-remove-k-digits/) | Medium |
 | [0735-asteroid-collision](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0735-asteroid-collision/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Tree
@@ -267,4 +269,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0695-max-area-of-island](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0695-max-area-of-island/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0402-remove-k-digits/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
