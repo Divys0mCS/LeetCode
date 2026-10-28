@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0735-asteroid-collision/) | Medium |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/2057-smallest-index-with-equal-value/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
 | [0697-degree-of-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0697-degree-of-an-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1002-find-common-characters/) | Easy |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0692-top-k-frequent-words/) | Medium |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
