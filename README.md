@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0547-number-of-provinces](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Divys0mCS/LeetCode/tree/main/Python3/Medium/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Greedy
@@ -286,5 +289,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
