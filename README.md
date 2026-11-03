@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/2057-smallest-index-with-equal-value/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0342-power-of-four/) | Easy |
 | [0877-stone-game](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0877-stone-game/) | Medium |
 | [2235-add-two-integers](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
