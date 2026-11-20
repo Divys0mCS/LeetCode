@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0704-binary-search/) | Easy |
 ## Matrix
@@ -297,4 +298,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Medium/0684-redundant-connection/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Divys0mCS/LeetCode/tree/main/Java/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
