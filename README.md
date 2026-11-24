@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0136-single-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Medium/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Divys0mCS/LeetCode/tree/main/C++/Easy/0278-first-bad-version/) | Easy |
